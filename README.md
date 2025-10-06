@@ -22,12 +22,12 @@ Aplicativo com foco em design e experiência do usuário, aplicando conceitos de
 
 🧠 Conteúdos aprendidos na criação do aplicativo:
 
-Estruturação de interfaces com widgets.
+- Estruturação de interfaces com widgets.
 
-Gerenciamento de dados assíncronos.
+- Gerenciamento de dados assíncronos.
 
-Consumo de APIs REST e manipulação de JSON.
+- Consumo de APIs REST e manipulação de JSON.
 
-Uso de geolocalização e permissões no mobile.
+- Uso de geolocalização e permissões no mobile.
 
-Organização de projeto, controle assíncrono e estilização de UI.
+- Organização de projeto, controle assíncrono e estilização de UI.
