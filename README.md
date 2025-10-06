@@ -19,8 +19,8 @@ Aplicativo com foco em design e experiência do usuário, aplicando conceitos de
 - Estilização com temas e cores personalizadas.
 
 - Criação de layouts responsivos e intuitivos.
-- 
 
+  
 🧠 Conteúdos aprendidos na criação do aplicativo:
 
 - Estruturação de interfaces com widgets.
