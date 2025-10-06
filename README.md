@@ -14,11 +14,12 @@ Aplicativo com foco em design e experiência do usuário, aplicando conceitos de
 
 📚 Aprendizados:
 
-- UI/UX design
+- UI/UX design.
 
-- Estilização com temas e cores personalizadas
+- Estilização com temas e cores personalizadas.
 
-- Criação de layouts responsivos e intuitivos
+- Criação de layouts responsivos e intuitivos.
+- 
 
 🧠 Conteúdos aprendidos na criação do aplicativo:
 
