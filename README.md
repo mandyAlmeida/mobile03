@@ -12,6 +12,7 @@ Mobile 3 – Design
 
 Aplicativo com foco em design e experiência do usuário, aplicando conceitos de responsividade e estilo visual consistente.
 
+
 📚 Aprendizados:
 
 - UI/UX design.
@@ -32,3 +33,8 @@ Aplicativo com foco em design e experiência do usuário, aplicando conceitos de
 - Uso de geolocalização e permissões no mobile.
 
 - Organização de projeto, controle assíncrono e estilização de UI.
+
+
+Tecnologia utilizada:
+
+- Flutter (Dart)
